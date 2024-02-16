@@ -38,3 +38,5 @@ next-env.d.ts
 # IDEs
 /.idea
 /.vscode
+temp_auto_push.bat
+temp_interactive_push.bat

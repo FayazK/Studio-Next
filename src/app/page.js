@@ -1,10 +1,13 @@
+'use client';
+
 import React from 'react';
 import { Button } from 'antd';
+import AdminLayout from '@/layouts/AdminLayout'
 
 const Home = () => (
-  <div className="App">
+  <AdminLayout>
     <Button type="primary">Button</Button>
-  </div>
+  </AdminLayout>
 );
 
 export default Home;
